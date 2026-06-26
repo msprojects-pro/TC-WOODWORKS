@@ -1,0 +1,6 @@
+{
+  "name": "TC Woodwork",
+  "description": "Bespoke Fences and Gates Specialists based in Kingston upon Hull, UK. Expert installation, quality workmanship, and tailored designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
